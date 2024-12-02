@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Software on CorpoStack</title>
+    <link>https://corpostack.sydsoft.de/tags/free-software/</link>
+    <description>Recent content in Free Software on CorpoStack</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Open-source MIT Licensed.</copyright>
+    <atom:link href="https://corpostack.sydsoft.de/tags/free-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian vs. Lightwhale: A Comparative Analysis</title>
+      <link>https://corpostack.sydsoft.de/page/post5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post5/</guid>
+      <description>Debian vs. Lightwhale: A Comparative Analysis Hello, tech enthusiasts! Today, we&amp;rsquo;re going to delve into the world of Linux distributions and compare two popular choices: Debian and Lightwhale. Both offer unique features and advantages, catering to different user preferences and requirements. Let&amp;rsquo;s explore the pros and cons of each and discuss why Linux, in general, is a reliable and secure choice for your operating system needs.&#xA;Debian: The Gold Standard of Linux Distributions Debian, often referred to as the &amp;ldquo;grandfather&amp;rdquo; of Linux distributions, has been around since 1993.</description>
+    </item>
+  </channel>
+</rss>

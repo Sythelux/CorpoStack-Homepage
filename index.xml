@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CorpoStack</title>
+    <link>https://corpostack.sydsoft.de/</link>
+    <description>Recent content on CorpoStack</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Open-source MIT Licensed.</copyright>
+    <atom:link href="https://corpostack.sydsoft.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://corpostack.sydsoft.de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/about/</guid>
+      <description>About Us Made with ❤️ by the Hugo Bootstrap Theme team.</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://corpostack.sydsoft.de/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/code-of-conduct/</guid>
+      <description>Contributor Covenant Code of Conduct Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.&#xA;We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</description>
+    </item>
+    <item>
+      <title>Collaborate &amp; Productivity with Open Source Tech</title>
+      <link>https://corpostack.sydsoft.de/page/post2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post2/</guid>
+      <description>Boost Collaboration &amp;amp; Productivity with Open Source Tech In today&amp;rsquo;s fast-paced business environment, effective collaboration and productivity are key drivers of success. However, relying on proprietary solutions can come with drawbacks such as vendor lock-in, privacy concerns, and high costs. Fortunately, there are robust open-source alternatives that can help your organization thrive while keeping control over your data. Let&amp;rsquo;s explore four powerful tools that play well together:&#xA;1. Nextcloud &amp;amp; OnlyOffice: Your private cloud powerhouse Nextcloud provides a secure, self-hosted file sync and share solution, allowing your team to access and collaborate on documents, images, videos, and more from anywhere.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://corpostack.sydsoft.de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/contact/</guid>
+      <description>Contact sydsoft</description>
+    </item>
+    <item>
+      <title>Debian vs. Lightwhale: A Comparative Analysis</title>
+      <link>https://corpostack.sydsoft.de/page/post5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post5/</guid>
+      <description>Debian vs. Lightwhale: A Comparative Analysis Hello, tech enthusiasts! Today, we&amp;rsquo;re going to delve into the world of Linux distributions and compare two popular choices: Debian and Lightwhale. Both offer unique features and advantages, catering to different user preferences and requirements. Let&amp;rsquo;s explore the pros and cons of each and discuss why Linux, in general, is a reliable and secure choice for your operating system needs.&#xA;Debian: The Gold Standard of Linux Distributions Debian, often referred to as the &amp;ldquo;grandfather&amp;rdquo; of Linux distributions, has been around since 1993.</description>
+    </item>
+    <item>
+      <title>Empower Your Business with Open Source Communications</title>
+      <link>https://corpostack.sydsoft.de/page/post3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post3/</guid>
+      <description>Learn how these three open-source tools complement each other to provide secure messaging, high-quality video conferencing, and self-hosted email solutions.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://corpostack.sydsoft.de/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/privacy-policy/</guid>
+      <description>Privacy Policy TL;DR: We do not use cookies and we do not collect any personal data.&#xA;Website visitors No personal information is collected. No information is stored in the browser. No information is shared with, sent to or sold to third-parties. No information is shared with advertising companies. No information is mined and harvested for personal and behavioral trends. No information is monetized. Information we collect and what we use it for The server hosting this site can collect the following information:</description>
+    </item>
+    <item>
+      <title>Take Control: Load Balancing &amp; Identity Management at Your Fingertips</title>
+      <link>https://corpostack.sydsoft.de/page/post4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post4/</guid>
+      <description>Take Control: Load Balancing &amp;amp; Identity Management at Your Fingertips In today&amp;rsquo;s fast-paced business environment, having robust yet cost-effective infrastructure, security, and management solutions is crucial for success. While many corporations rely on expensive proprietary tools, there&amp;rsquo;s a better way: leveraging the power of open-source technologies. In this post, we&amp;rsquo;ll explore how five exceptional open-source projects can transform your organization&amp;rsquo;s IT landscape.&#xA;Traefik: The Swiss Army Knife of Reverse Proxies Traefik is a modern reverse proxy and load balancer that simplifies and secures your API routing.</description>
+    </item>
+    <item>
+      <title>The Essential Corporate Tech Stack: A Deep Dive into Our Core Applications</title>
+      <link>https://corpostack.sydsoft.de/page/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post1/</guid>
+      <description>Streamline Your Business with Our Essential Corporate Tech Stack In today&amp;rsquo;s fast-paced business environment, having the right tools is crucial for success. At [Your Company Name], we&amp;rsquo;ve curated a powerful collection of open-source applications, collectively known as CorpoStack, to help businesses of all sizes thrive. Here&amp;rsquo;s a concise overview of our core applications:&#xA;1. Collaboration &amp;amp; Productivity: Nextcloud &amp;amp; OnlyOffice: Private cloud storage and real-time document collaboration. OpenProject: Agile project management for efficient teamwork.</description>
+    </item>
+  </channel>
+</rss>

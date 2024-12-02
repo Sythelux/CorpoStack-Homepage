@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on CorpoStack</title>
+    <link>https://corpostack.sydsoft.de/tags/open-source/</link>
+    <description>Recent content in Open Source on CorpoStack</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Open-source MIT Licensed.</copyright>
+    <atom:link href="https://corpostack.sydsoft.de/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaborate &amp; Productivity with Open Source Tech</title>
+      <link>https://corpostack.sydsoft.de/page/post2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post2/</guid>
+      <description>Boost Collaboration &amp;amp; Productivity with Open Source Tech In today&amp;rsquo;s fast-paced business environment, effective collaboration and productivity are key drivers of success. However, relying on proprietary solutions can come with drawbacks such as vendor lock-in, privacy concerns, and high costs. Fortunately, there are robust open-source alternatives that can help your organization thrive while keeping control over your data. Let&amp;rsquo;s explore four powerful tools that play well together:&#xA;1. Nextcloud &amp;amp; OnlyOffice: Your private cloud powerhouse Nextcloud provides a secure, self-hosted file sync and share solution, allowing your team to access and collaborate on documents, images, videos, and more from anywhere.</description>
+    </item>
+    <item>
+      <title>Empower Your Business with Open Source Communications</title>
+      <link>https://corpostack.sydsoft.de/page/post3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post3/</guid>
+      <description>Learn how these three open-source tools complement each other to provide secure messaging, high-quality video conferencing, and self-hosted email solutions.</description>
+    </item>
+    <item>
+      <title>Take Control: Load Balancing &amp; Identity Management at Your Fingertips</title>
+      <link>https://corpostack.sydsoft.de/page/post4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post4/</guid>
+      <description>Take Control: Load Balancing &amp;amp; Identity Management at Your Fingertips In today&amp;rsquo;s fast-paced business environment, having robust yet cost-effective infrastructure, security, and management solutions is crucial for success. While many corporations rely on expensive proprietary tools, there&amp;rsquo;s a better way: leveraging the power of open-source technologies. In this post, we&amp;rsquo;ll explore how five exceptional open-source projects can transform your organization&amp;rsquo;s IT landscape.&#xA;Traefik: The Swiss Army Knife of Reverse Proxies Traefik is a modern reverse proxy and load balancer that simplifies and secures your API routing.</description>
+    </item>
+    <item>
+      <title>The Essential Corporate Tech Stack: A Deep Dive into Our Core Applications</title>
+      <link>https://corpostack.sydsoft.de/page/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://corpostack.sydsoft.de/page/post1/</guid>
+      <description>Streamline Your Business with Our Essential Corporate Tech Stack In today&amp;rsquo;s fast-paced business environment, having the right tools is crucial for success. At [Your Company Name], we&amp;rsquo;ve curated a powerful collection of open-source applications, collectively known as CorpoStack, to help businesses of all sizes thrive. Here&amp;rsquo;s a concise overview of our core applications:&#xA;1. Collaboration &amp;amp; Productivity: Nextcloud &amp;amp; OnlyOffice: Private cloud storage and real-time document collaboration. OpenProject: Agile project management for efficient teamwork.</description>
+    </item>
+  </channel>
+</rss>
